@@ -14,6 +14,7 @@ import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
 class SplashActivity : AppCompatActivity() {
+//    Testing Branch
     private val binding by lazy {
         ActivitySplashBinding.inflate(layoutInflater)
     }
